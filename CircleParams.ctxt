@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CircleParams()
+comment1.params=radius
+comment1.target=CircleParams(double)
+comment2.params=
+comment2.target=void\ solve_circle()
+numComments=3

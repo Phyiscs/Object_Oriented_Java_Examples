@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ doSum()
+comment1.params=
+comment1.target=int\ doSumm()
+comment2.params=a\ b
+comment2.target=void\ print_sum_calc(int,\ int)
+comment3.params=a\ b
+comment3.target=int\ sum_calc(int,\ int)
+numComments=4
